@@ -1,0 +1,111 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:38:54] password = ""  (string)
+[23:38:54] 
+[23:38:54] Server Plugins
+[23:38:54] --------------
+[23:38:54]  Loading plugin: crashdetect.so
+[23:38:57]   Failed.
+[23:38:57]  Loading plugin: discord-connector.so
+[23:38:57]   Failed.
+[23:38:57]  Loading plugin: whirlpool.so
+[23:38:57]   Failed.
+[23:38:57]  Loading plugin: sampvoice.so
+[23:38:58]   Failed.
+[23:38:58]  Loading plugin: pawncmd.so
+[23:38:58]   Failed.
+[23:38:58]  Loading plugin: SKY.so
+[23:38:58]   Failed.
+[23:38:58]  Loading plugin: sscanf.so
+[23:39:02]   Failed.
+[23:39:02]  Loading plugin: streamer.so
+[23:39:03]   Failed.
+[23:39:03]  Loading plugin: mysql_static.so
+[23:39:04]   Failed.
+[23:39:04]  Loading plugin: nativechecker.so
+[23:39:04]   Failed.
+[23:39:04]  Loaded 0 plugins.
+
+[23:39:04] I couldn't load any gamemode scripts. Please verify your server.cfg
+[23:39:04] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:39:04] password = ""  (string)
+[23:39:04] 
+[23:39:04] Server Plugins
+[23:39:04] --------------
+[23:39:04]  Loading plugin: crashdetect.so
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:39:05] password = ""  (string)
+[23:39:05] 
+[23:39:05] Server Plugins
+[23:39:05] --------------
+[23:39:05]  Loading plugin: crashdetect.so
+[23:39:06]   Failed.
+[23:39:06]  Loading plugin: discord-connector.so
+[23:39:06]   Failed.
+[23:39:06]  Loading plugin: discord-connector.so
+[23:39:06]   Failed.
+[23:39:06]  Loading plugin: whirlpool.so
+[23:39:06]   Failed.
+[23:39:06]  Loading plugin: whirlpool.so
+[23:39:07]   Failed.
+[23:39:07]  Loading plugin: sampvoice.so
+[23:39:07]   Failed.
+[23:39:07]  Loading plugin: sampvoice.so
+[23:39:07]   Failed.
+[23:39:07]  Loading plugin: pawncmd.so
+[23:39:07]   Failed.
+[23:39:07]  Loading plugin: pawncmd.so
+[23:39:07]   Failed.
+[23:39:07]  Loading plugin: SKY.so
+[23:39:08]   Failed.
+[23:39:08]  Loading plugin: SKY.so
+[23:39:08]   Failed.
+[23:39:08]  Loading plugin: sscanf.so
+[23:39:08]   Failed.
+[23:39:08]  Loading plugin: sscanf.so
+[23:39:08]   Failed.
+[23:39:08]  Loading plugin: streamer.so
+[23:39:08]   Failed.
+[23:39:08]  Loading plugin: streamer.so
+[23:39:08]   Failed.
+[23:39:08]  Loading plugin: mysql_static.so
+[23:39:09]   Failed.
+[23:39:09]  Loading plugin: mysql_static.so
+[23:39:09]   Failed.
+[23:39:09]  Loading plugin: nativechecker.so
+[23:39:09]   Failed.
+[23:39:09]  Loading plugin: nativechecker.so
+[23:39:09]   Failed.
+[23:39:09]  Loaded 0 plugins.
+
+[23:39:09] I couldn't load any gamemode scripts. Please verify your server.cfg
+[23:39:09] It needs a gamemode0 line at the very least.
+[23:39:10]   Failed.
+[23:39:10]  Loaded 0 plugins.
+
+[23:39:10] I couldn't load any gamemode scripts. Please verify your server.cfg
+[23:39:10] It needs a gamemode0 line at the very least.

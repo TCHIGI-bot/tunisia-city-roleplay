@@ -1,0 +1,1416 @@
+[2020-08-13 10:02]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 8 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2020-08-13 11:57]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 12 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2020-08-13 17:05]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 12 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2020-08-14 00:52]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 10 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2020-08-14 01:07]
+Error ID: 1064
+Callback: 
+Query: UPDATE businesses SET name = 'Astro's Clothings' WHERE id = 6
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothings' WHERE id = 6' at line 1
+
+[2020-08-14 01:11]
+Error ID: 1064
+Callback: 
+Query: UPDATE businesses SET name = '[FF0000]Astro's Clothing' WHERE id = 6
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' WHERE id = 6' at line 1
+
+[2020-08-14 01:12]
+Error ID: 1064
+Callback: 
+Query: UPDATE businesses SET name = '[FF0000]Astro's Clothing' WHERE id = 6
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' WHERE id = 6' at line 1
+
+[2020-08-14 01:13]
+Error ID: 1064
+Callback: 
+Query: UPDATE businesses SET name = '[FF0000F]Astro's Clothing' WHERE id = 6
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' WHERE id = 6' at line 1
+
+[2020-08-14 01:16]
+Error ID: 1064
+Callback: 
+Query: UPDATE businesses SET name = '[#FF0000]Astro's Clothing' WHERE id = 6
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' WHERE id = 6' at line 1
+
+[2020-08-14 01:16]
+Error ID: 1064
+Callback: 
+Query: UPDATE businesses SET name = '[FFFFFF]Astro's Clothing' WHERE id = 6
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' WHERE id = 6' at line 1
+
+[2020-08-14 01:16]
+Error ID: 1064
+Callback: 
+Query: UPDATE businesses SET name = 'Astro's Clothing' WHERE id = 6
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' WHERE id = 6' at line 1
+
+[2020-08-15 09:50]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 11 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2020-08-15 09:53]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 11 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2020-08-17 15:07]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 60 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2020-08-17 19:38]
+Error ID: 1064
+Callback: 
+Query: UPDATE businesses SET name = 'Astro's Clothing' WHERE id = 6
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' WHERE id = 6' at line 1
+
+[2020-08-20 17:18]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 105 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2020-08-20 19:32]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 69 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2020-08-22 15:53]
+Error ID: 1054
+Callback: 
+Query: UPDATE businesses SET robbed = 3, robbing = 0 WHERE id = 28
+[!] Unknown column 'robbing' in 'field list'
+
+[2020-08-23 19:36]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 6 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2020-08-24 10:05]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 26 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2020-08-24 17:39]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 11 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2020-08-24 19:49]
+Error ID: 1054
+Callback: 
+Query: UPDATE businesses SET robbed = 3, robbing = 0 WHERE id = 6
+[!] Unknown column 'robbing' in 'field list'
+
+[2020-08-24 20:06]
+Error ID: 1054
+Callback: 
+Query: UPDATE businesses SET robbed = 3, robbing = 0 WHERE id = 25
+[!] Unknown column 'robbing' in 'field list'
+
+[2020-08-26 17:12]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 26 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2020-09-04 01:06]
+Error ID: 1054
+Callback: 
+Query: UPDATE businesses SET robbed = 3, robbing = 0 WHERE id = 4
+[!] Unknown column 'robbing' in 'field list'
+
+[2020-09-04 13:14]
+Error ID: 1146
+Callback: 
+Query: INSERT INTO vehicles (modelid, pos_x, pos_y, pos_z, pos_a, color1, color2, gangid, factiontype, respawndelay) VALUES(522, '1192.228', '-1323.474', '12.967', '355.96', 2, 2, 0, 1, 0)
+[!] Table 'server_4684_pcrp.vehicles' doesn't exist
+
+[2020-09-04 13:14]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT * FROM vehicles WHERE id = LAST_INSERT_ID()
+[!] Table 'server_4684_pcrp.vehicles' doesn't exist
+
+[2020-09-04 13:15]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT id, modelid, pos_x, pos_y, pos_z, world FROM vehicles WHERE ownerid = 13
+[!] Table 'server_4684_pcrp.vehicles' doesn't exist
+
+[2020-09-04 13:15]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT id, modelid, pos_x, pos_y, pos_z, world FROM vehicles WHERE ownerid = 13
+[!] Table 'server_4684_pcrp.vehicles' doesn't exist
+
+[2020-09-04 13:16]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT id, modelid, pos_x, pos_y, pos_z, world FROM vehicles WHERE ownerid = 51
+[!] Table 'server_4684_pcrp.vehicles' doesn't exist
+
+[2020-09-04 13:16]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT id, modelid, pos_x, pos_y, pos_z, world FROM vehicles WHERE ownerid = 168
+[!] Table 'server_4684_pcrp.vehicles' doesn't exist
+
+[2020-09-04 13:16]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT id, modelid, pos_x, pos_y, pos_z, world FROM vehicles WHERE ownerid = 168
+[!] Table 'server_4684_pcrp.vehicles' doesn't exist
+
+[2020-09-04 13:16]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT id, modelid, pos_x, pos_y, pos_z, world FROM vehicles WHERE ownerid = 168
+[!] Table 'server_4684_pcrp.vehicles' doesn't exist
+
+[2020-09-04 13:16]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT id, modelid, pos_x, pos_y, pos_z, world FROM vehicles WHERE ownerid = 13
+[!] Table 'server_4684_pcrp.vehicles' doesn't exist
+
+[2020-09-04 13:18]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT id, modelid, pos_x, pos_y, pos_z, world FROM vehicles WHERE ownerid = 168
+[!] Table 'server_4684_pcrp.vehicles' doesn't exist
+
+[2020-09-04 13:18]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT id, modelid, pos_x, pos_y, pos_z, world FROM vehicles WHERE ownerid = 168
+[!] Table 'server_4684_pcrp.vehicles' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE points SET time = 4, capturedgang = -1 WHERE id = 0
+[!] Table 'Dude.points' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE points SET time = 4, capturedgang = -1 WHERE id = 1
+[!] Table 'Dude.points' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE points SET time = 5, capturedgang = -1 WHERE id = 2
+[!] Table 'Dude.points' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE points SET time = 5, capturedgang = -1 WHERE id = 3
+[!] Table 'Dude.points' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE points SET time = 5, capturedgang = -1 WHERE id = 4
+[!] Table 'Dude.points' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE points SET time = 1, capturedgang = -1 WHERE id = 5
+[!] Table 'Dude.points' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE points SET time = 0, capturedgang = -1 WHERE id = 6
+[!] Table 'Dude.points' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE points SET time = 5, capturedgang = -1 WHERE id = 7
+[!] Table 'Dude.points' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 1
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 2
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 3
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 4
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 5
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 6
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 7
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 8
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 9
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 10
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 11
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 12
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 13
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 14
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 15
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 16
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 17
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 18
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 19
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 20
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 21
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 22
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:00]
+Error ID: 1146
+Callback: 
+Query: UPDATE turfs SET time = 0 WHERE id = 23
+[!] Table 'Dude.turfs' doesn't exist
+
+[2021-04-04 07:46]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 4808, load = 2, loadexpire = 1618382760 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618382760 WHERE uid = 1074' at line 1
+
+[2021-04-04 07:50]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 149801, load = 2, loadexpire = 1618383012 WHERE uid = 1149
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618383012 WHERE uid = 1149' at line 1
+
+[2021-04-04 07:56]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 209101, load = 2, loadexpire = 1618383360 WHERE uid = 1110
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618383360 WHERE uid = 1110' at line 1
+
+[2021-04-04 07:56]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 3529, load = 2, loadexpire = 1618383362 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618383362 WHERE uid = 1074' at line 1
+
+[2021-04-04 07:56]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 149751, load = 2, loadexpire = 1618383381 WHERE uid = 1150
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618383381 WHERE uid = 1150' at line 1
+
+[2021-04-04 08:06]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 27932, load = 2, loadexpire = 1617951962 WHERE uid = 1115
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1617951962 WHERE uid = 1115' at line 1
+
+[2021-04-04 08:37]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 148961, load = 2, loadexpire = 1618385822 WHERE uid = 1151
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618385822 WHERE uid = 1151' at line 1
+
+[2021-04-04 09:17]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 149801, load = 2, loadexpire = 1618388266 WHERE uid = 1152
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618388266 WHERE uid = 1152' at line 1
+
+[2021-04-04 09:19]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 9801, load = 2, loadexpire = 1618388365 WHERE uid = 1094
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618388365 WHERE uid = 1094' at line 1
+
+[2021-04-04 10:36]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 10:36]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 10:37]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 10:37]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 10:42]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 386073, load = 1, loadexpire = 1617788532 WHERE uid = 1071
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1617788532 WHERE uid = 1071' at line 1
+
+[2021-04-04 10:42]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 149741, load = 2, loadexpire = 1618393373 WHERE uid = 1155
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618393373 WHERE uid = 1155' at line 1
+
+[2021-04-04 10:56]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1142 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 10:56]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1142 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 11:14]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 11:14]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 12:04]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1153 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 15:28]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1155 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 15:40]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 387450, load = 1, loadexpire = 1617806416 WHERE uid = 1071
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1617806416 WHERE uid = 1071' at line 1
+
+[2021-04-04 16:28]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 7406, load = 2, loadexpire = 1618414116 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618414116 WHERE uid = 1074' at line 1
+
+[2021-04-04 16:34]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 10655302, load = 2, loadexpire = 1618414467 WHERE uid = 1064
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618414467 WHERE uid = 1064' at line 1
+
+[2021-04-04 16:56]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 17:22]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 1210, load = 2, loadexpire = 1618417341 WHERE uid = 1138
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618417341 WHERE uid = 1138' at line 1
+
+[2021-04-04 18:34]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 149801, load = 2, loadexpire = 1618421648 WHERE uid = 1161
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618421648 WHERE uid = 1161' at line 1
+
+[2021-04-04 18:35]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 18:35]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 18:35]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 18:35]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 18:35]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 18:43]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 191701, load = 2, loadexpire = 1618422201 WHERE uid = 1161
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618422201 WHERE uid = 1161' at line 1
+
+[2021-04-04 18:54]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-04 19:15]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1142 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-05 05:16]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 801, load = 2, loadexpire = 1618460191 WHERE uid = 1064
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618460191 WHERE uid = 1064' at line 1
+
+[2021-04-05 06:23]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1157 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-05 06:27]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 16997, load = 2, loadexpire = 1618032441 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618032441 WHERE uid = 1074' at line 1
+
+[2021-04-05 06:53]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 136401, load = 2, loadexpire = 1618465998 WHERE uid = 1164
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618465998 WHERE uid = 1164' at line 1
+
+[2021-04-05 07:26]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 52748, load = 1, loadexpire = 1617863175 WHERE uid = 1096
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1617863175 WHERE uid = 1096' at line 1
+
+[2021-04-05 07:46]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 16156, load = 1, loadexpire = 1618209996 WHERE uid = 1138
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618209996 WHERE uid = 1138' at line 1
+
+[2021-04-05 08:03]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 143801, load = 2, loadexpire = 1618470194 WHERE uid = 1163
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618470194 WHERE uid = 1163' at line 1
+
+[2021-04-05 10:23]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 8541, load = 2, loadexpire = 1618478616 WHERE uid = 1064
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618478616 WHERE uid = 1064' at line 1
+
+[2021-04-05 10:43]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 384883, load = 1, loadexpire = 1618220594 WHERE uid = 1071
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618220594 WHERE uid = 1071' at line 1
+
+[2021-04-05 10:43]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 138801, load = 2, loadexpire = 1618479806 WHERE uid = 1167
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618479806 WHERE uid = 1167' at line 1
+
+[2021-04-05 10:50]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-05 10:50]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-05 10:52]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-05 11:03]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 143801, load = 2, loadexpire = 1618480990 WHERE uid = 1168
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618480990 WHERE uid = 1168' at line 1
+
+[2021-04-05 11:03]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 8181, load = 2, loadexpire = 1618481032 WHERE uid = 1064
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618481032 WHERE uid = 1064' at line 1
+
+[2021-04-05 11:03]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 7982, load = 2, loadexpire = 1618481038 WHERE uid = 1064
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618481038 WHERE uid = 1064' at line 1
+
+[2021-04-05 11:04]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 16076, load = 1, loadexpire = 1617876283 WHERE uid = 1138
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1617876283 WHERE uid = 1138' at line 1
+
+[2021-04-05 11:05]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 380903, load = 1, loadexpire = 1617876301 WHERE uid = 1071
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1617876301 WHERE uid = 1071' at line 1
+
+[2021-04-05 11:19]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 15270, load = 2, loadexpire = 1618481980 WHERE uid = 1138
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618481980 WHERE uid = 1138' at line 1
+
+[2021-04-05 11:23]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 300397, load = 2, loadexpire = 1618482198 WHERE uid = 1085
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618482198 WHERE uid = 1085' at line 1
+
+[2021-04-05 11:30]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1096 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-05 12:07]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 10271, load = 2, loadexpire = 1618484864 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618484864 WHERE uid = 1125' at line 1
+
+[2021-04-05 12:08]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 15336, load = 2, loadexpire = 1618052880 WHERE uid = 1138
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618052880 WHERE uid = 1138' at line 1
+
+[2021-04-05 12:10]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1167 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-05 13:09]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-05 13:23]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 141367, load = 1, loadexpire = 1618230196 WHERE uid = 1168
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618230196 WHERE uid = 1168' at line 1
+
+[2021-04-05 13:29]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-05 13:48]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 141191, load = 2, loadexpire = 1618490880 WHERE uid = 1168
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618490880 WHERE uid = 1168' at line 1
+
+[2021-04-05 13:50]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1163 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-05 14:01]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 3707, load = 2, loadexpire = 1618491709 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618491709 WHERE uid = 1125' at line 1
+
+[2021-04-05 15:43]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 36291, load = 1, loadexpire = 1617893036 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1617893036 WHERE uid = 1074' at line 1
+
+[2021-04-05 15:48]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-05 16:41]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 55511, load = 1, loadexpire = 1617896498 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1617896498 WHERE uid = 1074' at line 1
+
+[2021-04-05 16:48]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-05 16:52]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-05 17:27]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 173010, load = 1, loadexpire = 1617899223 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1617899223 WHERE uid = 1125' at line 1
+
+[2021-04-05 17:27]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 172811, load = 2, loadexpire = 1618504055 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618504055 WHERE uid = 1125' at line 1
+
+[2021-04-05 18:11]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 16322, load = 2, loadexpire = 1618506673 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618506673 WHERE uid = 1166' at line 1
+
+[2021-04-05 18:22]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 134735, load = 1, loadexpire = 1617902573 WHERE uid = 1096
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1617902573 WHERE uid = 1096' at line 1
+
+[2021-04-05 20:12]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 64897, load = 2, loadexpire = 1618513940 WHERE uid = 1085
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618513940 WHERE uid = 1085' at line 1
+
+[2021-04-05 22:52]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 71381, load = 2, loadexpire = 1618523554 WHERE uid = 1092
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618523554 WHERE uid = 1092' at line 1
+
+[2021-04-06 02:40]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 13337, load = 2, loadexpire = 1618537226 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618537226 WHERE uid = 1166' at line 1
+
+[2021-04-06 04:56]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 11298, load = 1, loadexpire = 1618286175 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618286175 WHERE uid = 1166' at line 1
+
+[2021-04-06 06:39]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1064 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-06 06:47]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 7497, load = 1, loadexpire = 1618292839 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618292839 WHERE uid = 1166' at line 1
+
+[2021-04-06 06:50]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 11245, load = 2, loadexpire = 1618552258 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618552258 WHERE uid = 1125' at line 1
+
+[2021-04-06 07:33]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 4638, load = 1, loadexpire = 1618295619 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618295619 WHERE uid = 1166' at line 1
+
+[2021-04-06 08:19]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 55651, load = 1, loadexpire = 1617952777 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1617952777 WHERE uid = 1074' at line 1
+
+[2021-04-06 08:20]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 6799, load = 2, loadexpire = 1618557633 WHERE uid = 1073
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618557633 WHERE uid = 1073' at line 1
+
+[2021-04-06 08:35]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 3048, load = 1, loadexpire = 1618299314 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618299314 WHERE uid = 1166' at line 1
+
+[2021-04-06 09:12]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 1014, load = 1, loadexpire = 1617955924 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1617955924 WHERE uid = 1166' at line 1
+
+[2021-04-06 09:59]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1155 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-06 10:04]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1155 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-06 10:25]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 14847, load = 2, loadexpire = 1618565149 WHERE uid = 1080
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618565149 WHERE uid = 1080' at line 1
+
+[2021-04-06 10:44]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 6667, load = 1, loadexpire = 1618307047 WHERE uid = 1138
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618307047 WHERE uid = 1138' at line 1
+
+[2021-04-06 10:52]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 3745, load = 2, loadexpire = 1618566720 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618566720 WHERE uid = 1125' at line 1
+
+[2021-04-06 11:47]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 393947, load = 1, loadexpire = 1617965239 WHERE uid = 1162
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1617965239 WHERE uid = 1162' at line 1
+
+[2021-04-06 15:10]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 5701, load = 2, loadexpire = 1618582203 WHERE uid = 1116
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618582203 WHERE uid = 1116' at line 1
+
+[2021-04-06 15:10]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 5502, load = 2, loadexpire = 1618582205 WHERE uid = 1116
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618582205 WHERE uid = 1116' at line 1
+
+[2021-04-06 15:20]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 1413, load = 2, loadexpire = 1618582834 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618582834 WHERE uid = 1166' at line 1
+
+[2021-04-06 15:49]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-06 18:08]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 1177, load = 2, loadexpire = 1618592928 WHERE uid = 1092
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618592928 WHERE uid = 1092' at line 1
+
+[2021-04-06 18:21]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 14987, load = 2, loadexpire = 1618593706 WHERE uid = 1085
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618593706 WHERE uid = 1085' at line 1
+
+[2021-04-07 05:11]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 447391, load = 2, loadexpire = 1618632681 WHERE uid = 1065
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618632681 WHERE uid = 1065' at line 1
+
+[2021-04-07 05:15]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 155651, load = 2, loadexpire = 1618632942 WHERE uid = 1174
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618632942 WHERE uid = 1174' at line 1
+
+[2021-04-07 06:10]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 58684, load = 2, loadexpire = 1618636232 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618636232 WHERE uid = 1125' at line 1
+
+[2021-04-07 06:10]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 26618, load = 1, loadexpire = 1618031453 WHERE uid = 1171
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618031453 WHERE uid = 1171' at line 1
+
+[2021-04-07 07:44]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 37119, load = 1, loadexpire = 1618382684 WHERE uid = 1128
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618382684 WHERE uid = 1128' at line 1
+
+[2021-04-07 08:12]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 179970, load = 1, loadexpire = 1618384365 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618384365 WHERE uid = 1166' at line 1
+
+[2021-04-07 08:15]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 527, load = 1, loadexpire = 1618038935 WHERE uid = 1138
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618038935 WHERE uid = 1138' at line 1
+
+[2021-04-07 08:21]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 318, load = 2, loadexpire = 1618644104 WHERE uid = 1138
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618644104 WHERE uid = 1138' at line 1
+
+[2021-04-07 08:21]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 36533, load = 2, loadexpire = 1618644117 WHERE uid = 1128
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618644117 WHERE uid = 1128' at line 1
+
+[2021-04-07 08:21]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 485287, load = 2, loadexpire = 1618644119 WHERE uid = 1071
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618644119 WHERE uid = 1071' at line 1
+
+[2021-04-07 09:17]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 35673, load = 2, loadexpire = 1618647424 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618647424 WHERE uid = 1125' at line 1
+
+[2021-04-07 09:28]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 15686, load = 1, loadexpire = 1618043333 WHERE uid = 1171
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618043333 WHERE uid = 1171' at line 1
+
+[2021-04-07 09:37]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 15540, load = 2, loadexpire = 1618648645 WHERE uid = 1171
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618648645 WHERE uid = 1171' at line 1
+
+[2021-04-07 09:40]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 5898, load = 2, loadexpire = 1618648816 WHERE uid = 1128
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618648816 WHERE uid = 1128' at line 1
+
+[2021-04-07 10:14]
+Error ID: 1064
+Callback: OnPlayerUseCarValley
+Query: SELECT id FROM vehicles WHERE ownerid = 1105 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-07 10:41]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1115 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-07 11:17]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1095 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-07 11:26]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 174890, load = 1, loadexpire = 1618396018 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618396018 WHERE uid = 1166' at line 1
+
+[2021-04-07 11:27]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 40530, load = 2, loadexpire = 1618655231 WHERE uid = 1129
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618655231 WHERE uid = 1129' at line 1
+
+[2021-04-07 11:34]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 9207, load = 2, loadexpire = 1618655649 WHERE uid = 1080
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618655649 WHERE uid = 1080' at line 1
+
+[2021-04-07 12:27]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 140551, load = 2, loadexpire = 1618658863 WHERE uid = 1187
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618658863 WHERE uid = 1187' at line 1
+
+[2021-04-07 12:27]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 295627, load = 1, loadexpire = 1618399664 WHERE uid = 1185
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618399664 WHERE uid = 1185' at line 1
+
+[2021-04-07 12:27]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 145551, load = 2, loadexpire = 1618658866 WHERE uid = 1188
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618658866 WHERE uid = 1188' at line 1
+
+[2021-04-07 12:27]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 140352, load = 2, loadexpire = 1618658867 WHERE uid = 1187
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618658867 WHERE uid = 1187' at line 1
+
+[2021-04-07 12:27]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 6033, load = 2, loadexpire = 1618658869 WHERE uid = 1073
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618658869 WHERE uid = 1073' at line 1
+
+[2021-04-07 12:28]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 1067195, load = 2, loadexpire = 1618658880 WHERE uid = 1064
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618658880 WHERE uid = 1064' at line 1
+
+[2021-04-07 12:28]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 21611, load = 1, loadexpire = 1618054128 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618054128 WHERE uid = 1074' at line 1
+
+[2021-04-07 13:24]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1138 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-07 15:29]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 13033, load = 2, loadexpire = 1618669777 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618669777 WHERE uid = 1125' at line 1
+
+[2021-04-07 16:18]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 177190, load = 2, loadexpire = 1618672726 WHERE uid = 1110
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618672726 WHERE uid = 1110' at line 1
+
+[2021-04-07 16:51]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1171 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-07 17:40]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 282044, load = 1, loadexpire = 1618418407 WHERE uid = 1105
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618418407 WHERE uid = 1105' at line 1
+
+[2021-04-07 17:40]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 281845, load = 2, loadexpire = 1618677609 WHERE uid = 1105
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618677609 WHERE uid = 1105' at line 1
+
+[2021-04-07 17:40]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 281646, load = 2, loadexpire = 1618677614 WHERE uid = 1105
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618677614 WHERE uid = 1105' at line 1
+
+[2021-04-07 17:40]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 281523, load = 1, loadexpire = 1618418418 WHERE uid = 1105
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618418418 WHERE uid = 1105' at line 1
+
+[2021-04-08 05:47]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 11904, load = 1, loadexpire = 1618462043 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618462043 WHERE uid = 1166' at line 1
+
+[2021-04-08 06:43]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 22073, load = 2, loadexpire = 1618724624 WHERE uid = 1128
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618724624 WHERE uid = 1128' at line 1
+
+[2021-04-08 06:47]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 8235, load = 1, loadexpire = 1618120068 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618120068 WHERE uid = 1166' at line 1
+
+[2021-04-08 07:40]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 7567, load = 1, loadexpire = 1618468823 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618468823 WHERE uid = 1166' at line 1
+
+[2021-04-08 07:41]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 54541, load = 1, loadexpire = 1618468878 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618468878 WHERE uid = 1074' at line 1
+
+[2021-04-08 07:41]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 4979, load = 2, loadexpire = 1618296081 WHERE uid = 1128
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618296081 WHERE uid = 1128' at line 1
+
+[2021-04-08 07:41]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 4780, load = 2, loadexpire = 1618728084 WHERE uid = 1128
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618728084 WHERE uid = 1128' at line 1
+
+[2021-04-08 07:41]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 4657, load = 1, loadexpire = 1618468886 WHERE uid = 1128
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618468886 WHERE uid = 1128' at line 1
+
+[2021-04-08 07:41]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 4604, load = 1, loadexpire = 1618123288 WHERE uid = 1128
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618123288 WHERE uid = 1128' at line 1
+
+[2021-04-08 07:41]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 129785, load = 2, loadexpire = 1618728095 WHERE uid = 1110
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618728095 WHERE uid = 1110' at line 1
+
+[2021-04-08 07:41]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-08 07:41]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1074 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-08 07:49]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 11276, load = 2, loadexpire = 1618728583 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618728583 WHERE uid = 1125' at line 1
+
+[2021-04-08 07:51]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 54571, load = 2, loadexpire = 1618296697 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618296697 WHERE uid = 1074' at line 1
+
+[2021-04-08 09:47]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 7567, load = 1, loadexpire = 1618476432 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618476432 WHERE uid = 1166' at line 1
+
+[2021-04-08 10:16]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 59086, load = 2, loadexpire = 1618737365 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618737365 WHERE uid = 1125' at line 1
+
+[2021-04-08 10:30]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 71038, load = 1, loadexpire = 1618133443 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618133443 WHERE uid = 1166' at line 1
+
+[2021-04-08 13:16]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 12796, load = 2, loadexpire = 1618748163 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618748163 WHERE uid = 1125' at line 1
+
+[2021-04-08 14:17]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 62107, load = 1, loadexpire = 1618147069 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618147069 WHERE uid = 1074' at line 1
+
+[2021-04-08 14:57]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 61107, load = 1, loadexpire = 1618149450 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618149450 WHERE uid = 1074' at line 1
+
+[2021-04-08 15:49]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 61107, load = 1, loadexpire = 1618152592 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618152592 WHERE uid = 1074' at line 1
+
+[2021-04-08 15:49]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 290697, load = 1, loadexpire = 1618152597 WHERE uid = 1192
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618152597 WHERE uid = 1192' at line 1
+
+[2021-04-08 15:58]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 262565, load = 1, loadexpire = 1618498686 WHERE uid = 1166
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618498686 WHERE uid = 1166' at line 1
+
+[2021-04-08 16:16]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 60902, load = 1, loadexpire = 1618154162 WHERE uid = 1074
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618154162 WHERE uid = 1074' at line 1
+
+[2021-04-08 16:31]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 7, load = 1, loadexpire = 1618155104 WHERE uid = 1168
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618155104 WHERE uid = 1168' at line 1
+
+[2021-04-08 17:44]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 5683, load = 1, loadexpire = 1618159447 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618159447 WHERE uid = 1125' at line 1
+
+[2021-04-09 08:40]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 135117, load = 1, loadexpire = 1618213201 WHERE uid = 1192
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618213201 WHERE uid = 1192' at line 1
+
+[2021-04-09 09:06]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 132917, load = 1, loadexpire = 1618214803 WHERE uid = 1192
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618214803 WHERE uid = 1192' at line 1
+
+[2021-04-09 09:20]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 132917, load = 1, loadexpire = 1618215650 WHERE uid = 1192
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618215650 WHERE uid = 1192' at line 1
+
+[2021-04-09 09:35]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 132917, load = 1, loadexpire = 1618216540 WHERE uid = 1192
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 1, loadexpire = 1618216540 WHERE uid = 1192' at line 1
+
+[2021-04-09 09:45]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 4047, load = 2, loadexpire = 1618821948 WHERE uid = 1125
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618821948 WHERE uid = 1125' at line 1
+
+[2021-04-09 10:59]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1128 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-09 11:28]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 60123, load = 2, loadexpire = 1618828128 WHERE uid = 1128
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618828128 WHERE uid = 1128' at line 1
+
+[2021-04-09 14:33]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1095 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-09 14:33]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1095 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+[2021-04-09 14:55]
+Error ID: 1064
+Callback: 
+Query: UPDATE users SET cash = 7941, load = 2, loadexpire = 1618840526 WHERE uid = 1092
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'load = 2, loadexpire = 1618840526 WHERE uid = 1092' at line 1
+

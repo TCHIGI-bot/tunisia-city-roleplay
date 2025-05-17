@@ -1,0 +1,37 @@
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(320) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tmpobjid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(326) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(326) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police1"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(328) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police1"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(330) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police1"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(333) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police1"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(336) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police1"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(339) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police1"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(342) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police1"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(345) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police1"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(348) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police2"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(350) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police2"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(352) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police2"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(355) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police2"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(358) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police2"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(361) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police2"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(364) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police2"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(367) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police2"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(369) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(370) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(370) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police3"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(372) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police3"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(374) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police3"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(377) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police3"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(380) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police3"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(383) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police3"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(386) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police3"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(389) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police3"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(392) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police4"
+C:\Users\saida\Downloads\GS CLUB - S1\filterscripts\WRSMAPPINGS.pwn(394) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "police4"
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.

@@ -1,15 +1,14 @@
-FROM ubuntu:20.04
-
-RUN apt-get update && apt-get install -y lib32gcc-s1 wget && rm -rf /var/lib/apt/lists/*
+FROM debian:bullseye-slim
 
 WORKDIR /samp
 
-RUN wget https://cdn.sa-mp.com/samp040/samp03svr_R3-1-0.tar.gz && \
-    tar -xvzf samp03svr_R3-1-0.tar.gz && \
-    rm samp03svr_R3-1-0.tar.gz
+RUN apt update && apt install -y lib32z1 lib32ncurses6 lib32stdc++6 tar
 
-RUN chmod +x ./samp03svr
+COPY samp03svr_R3-1-0.tar.gz .
 
-EXPOSE 7777/udp
+RUN tar -xvzf samp03svr_R3-1-0.tar.gz && rm samp03svr_R3-1-0.tar.gz
 
-CMD ["./samp03svr"]
+COPY . .
+
+EXPOSE 7777
+CMD ["./samp03/samp03svr"]

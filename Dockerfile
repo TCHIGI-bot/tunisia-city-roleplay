@@ -1,19 +1,20 @@
-FROM ubuntu:20.04
+FROM debian:bullseye
 
-RUN apt-get update && apt-get install -y wget unzip lib32gcc1 && apt-get clean
+# تحديث الحزم وتثبيت المتطلبات
+RUN apt-get update && apt-get install -y wget unzip lib32gcc-s1 && apt-get clean
 
-RUN wget https://files.sa-mp.com/samp03svr_R2-1.tar.gz
+# تحميل السيرفر من مصدر موثوق (أرشيف GitHub)
+WORKDIR /samp
+RUN wget https://github.com/Se8870/SAMP-File-Archive/releases/download/v1.0/samp03svr_R2-1.tar.gz
 
+# فك الضغط وحذف الملف الأصلي
 RUN tar -xvzf samp03svr_R2-1.tar.gz && rm samp03svr_R2-1.tar.gz
 
-COPY gamemodes ./samp03svr/gamemodes
-COPY filterscripts ./samp03svr/filterscripts
-COPY server.cfg ./samp03svr/server.cfg
+# نسخ ملفات السيرفر الخاصة بك (عدل هذا إذا عندك سكريبت)
+COPY . /samp
 
-WORKDIR /samp03svr
-
-RUN chmod +x samp03svr
-
+# فتح المنفذ
 EXPOSE 7777/udp
 
-CMD ["./samp03svr"]
+# أمر التشغيل
+CMD ["./samp03/samp03svr"]

@@ -1,20 +1,20 @@
-FROM debian:bullseye
+FROM debian:bullseye-slim
 
-# تحديث الحزم وتثبيت المتطلبات
-RUN apt-get update && apt-get install -y wget unzip lib32gcc-s1 && apt-get clean
+RUN apt update && apt install -y lib32z1 lib32stdc++6 wget unzip
 
-# تحميل السيرفر من مصدر موثوق (أرشيف GitHub)
 WORKDIR /samp
-RUN wget https://github.com/Se8870/SAMP-File-Archive/releases/download/v1.0/samp03svr_R2-1.tar.gz
 
-# فك الضغط وحذف الملف الأصلي
-RUN tar -xvzf samp03svr_R2-1.tar.gz && rm samp03svr_R2-1.tar.gz
+# تحميل ملفات السيرفر
+RUN wget https://files.sa-mp.com/samp037svr_R2-1.tar.gz && \
+    tar -xvzf samp037svr_R2-1.tar.gz && \
+    mv samp03/* . && \
+    rm -rf samp03 samp037svr_R2-1.tar.gz
 
-# نسخ ملفات السيرفر الخاصة بك (عدل هذا إذا عندك سكريبت)
-COPY . /samp
+# نسخ السكربت WRS.amx الخاص بيك
+COPY WRS.amx /samp/gamemodes/
 
-# فتح المنفذ
-EXPOSE 7777/udp
+# إعداد ملف config
+RUN sed -i 's/^gamemode0.*/gamemode0 WRS 1/' server.cfg
 
-# أمر التشغيل
-CMD ["./samp03/samp03svr"]
+EXPOSE 7777
+CMD ["./samp03svr"]
